@@ -13,6 +13,7 @@ from matplotlib.animation import FFMpegWriter
 from tqdm import tqdm
 
 from minisam import *
+#how to install minisam: https://minisam.readthedocs.io/install.html
 from utils.ScanContextManager import *
 from utils.PoseGraphManager import *
 from utils.UtilsMisc import *
